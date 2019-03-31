@@ -1,0 +1,9 @@
+ul{
+    font-size: 0;
+    background: #f5f5f5;
+}
+a{
+    display: inline-block;
+    font-size: 0.26rem;
+    padding: 0.1rem 0.2rem;
+}
